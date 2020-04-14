@@ -8,7 +8,7 @@ def find_element_index(array, value_to_find)
 
     if temp == value_to_find
       return counter
-      counter+=1
+      
     else
       return nil
       counter+=1
